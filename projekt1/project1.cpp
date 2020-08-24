@@ -13,6 +13,6 @@ void sayHelloWorld()
 };
 int main()
 {
-   cout << "Hello World! \n";
+    sayHello(); 
 }
 
