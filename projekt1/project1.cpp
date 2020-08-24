@@ -7,6 +7,10 @@ void sayHello()
     cout << "Hello!";
 };
 
+void sayHelloWorld()
+{
+	cout << "Hello World!";
+};
 int main()
 {
    cout << "Hello World! \n";
