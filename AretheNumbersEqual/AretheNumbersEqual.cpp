@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// https://edabit.com/challenge/FZK5rECZMiqu9bv9i
 bool isEqual(int a, int b)
 {
 	return (a == b);
